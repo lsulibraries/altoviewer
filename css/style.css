@@ -35,7 +35,7 @@ dd {
 
 #highlight-string {
     border: solid 1px #f0f;
-    background-color: #00C;
+    background-color: #111;
 }
 #highlight-line {
     border: solid 1px #f00;

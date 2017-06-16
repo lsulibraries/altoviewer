@@ -25,6 +25,7 @@ $altoViewer = new AltoViewer(   $config['altoDir'],
                                 $config['imageDir'], 
                                 $image, $vScale, $hScale);
 $imageSize = $altoViewer->getImageSize();
+$imageName = $altoViewer->getImageName();
 $strings = $altoViewer->getStrings();
 $textLines = $altoViewer->getTextLines();
 $textBlocks = $altoViewer->getTextBlocks();
@@ -54,7 +55,7 @@ $scaledWidth = $imageSize[0] * $hScale;
         
         <div id="image">
             <img 
-                src="images/<?php echo $image; ?>.tif.png" 
+                src="<?php print 'images/' . $imageName . '.jpg'?>" 
                 width="<?php echo $scaledWidth; ?>" 
                 height="<?php echo $scaledHeight; ?>" />
             <?php foreach ($strings as $string) { ?>
@@ -62,8 +63,9 @@ $scaledWidth = $imageSize[0] * $hScale;
                     style=" left: <?php echo $string->getHPos(); ?>px; 
                             top: <?php echo $string->getVPos(); ?>px; 
                             width: <?php echo $string->getWidth(); ?>px; 
-                            height: <?php echo $string->getHeight(); ?>px; 
-                            filter: alpha(opacity=50)" >
+                            height: <?php echo $string->getHeight(); ?>px;
+                            display: none;
+                            filter: alpha(opacity=20)" >
                 </div>
             <?php } ?>
             <script>
@@ -78,6 +80,7 @@ $scaledWidth = $imageSize[0] * $hScale;
                             top: <?php echo $textLine->getVPos(); ?>px; 
                             width: <?php echo $textLine->getWidth(); ?>px; 
                             height: <?php echo $textLine->getHeight(); ?>px; 
+                            display: none;
                             filter: alpha(opacity=50)" >
                 </div>
             <?php } ?>
@@ -93,6 +96,7 @@ $scaledWidth = $imageSize[0] * $hScale;
                             top: <?php echo $textBlock->getVPos(); ?>px; 
                             width: <?php echo $textBlock->getWidth(); ?>px; 
                             height: <?php echo $textBlock->getHeight(); ?>px; 
+                            display: none;
                             filter: alpha(opacity=50)" >
                 </div>
             <?php } ?>
@@ -107,7 +111,8 @@ $scaledWidth = $imageSize[0] * $hScale;
                         top: <?php echo $printSpace->getVPos(); ?>px; 
                         width: <?php echo $printSpace->getWidth(); ?>px; 
                         height: <?php echo $printSpace->getHeight(); ?>px; 
-                        filter: alpha(opacity=50)" >
+                        display: none;
+                        filter: alpha(opacity=20)" >
             </div>
             <script>
                 $("button[id*=printspace]").click(function () {

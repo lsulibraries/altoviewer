@@ -120,12 +120,16 @@ class AltoViewer
         return $p;
     }
     
+    public function getImageName(){
+      return $img = 'mn_' .str_replace('-ALTO00', '_', $this->_fileId);
+    }
+
     /**
      * Set Image Size
      */    
     protected function _setImageSize() 
     {
-        $this->_imageSize = getimagesize(($this->_imageDir . DIRECTORY_SEPARATOR . $this->_fileId . '.tif.png'));
+        $this->_imageSize = getimagesize(('images' . DIRECTORY_SEPARATOR . $this->getImageName() . '.jpg'));
         $layout = $this->_altoDom->getElementsByTagName('Page');
         $altoWidth = $layout->item(0)->getAttribute('WIDTH');
 	$imageScale = $altoWidth / $this->_imageSize[0];
