@@ -40,14 +40,16 @@ class AltoViewer
      */    
     public function __construct($altoDir, $imageDir, $fileId, $vScale, $hScale) 
     {
-        $this->_altoDir = $altoDir;
-        $this->_imageDir = $imageDir;    
-        $this->_fileId = $fileId;    
-        $this->_vScale = $vScale;    
-        $this->_hScale = $hScale;    
-        
-        $this->_loadAlto($this->_altoDir . DIRECTORY_SEPARATOR . $this->_fileId . '.xml');
-        $this->_setImageSize();
+      $this->_altoDir = $altoDir;
+      $this->_imageDir = $imageDir;    
+      $this->_fileId = $fileId;    
+      $this->_vScale = $vScale;    
+      $this->_hScale = $hScale;    
+
+      $this->_loadAlto($this->_altoDir . DIRECTORY_SEPARATOR . $this->_fileId . '.xml');
+      $this->_setImageSize();
+      $this->imageSize = $this->getImageSize();
+      $this->imageName = $this->getImageName();
     }
 
     /**
