@@ -10,7 +10,7 @@ zend_extension="/usr/lib/php5/20121212/xdebug.so"
 xdebug.remote_enable=1
 xdebug.remote_handler=dbgp 
 xdebug.remote_mode=req
-xdebug.remote_host=130.39.60.175 
+xdebug.remote_host=127.0.0.1 
 xdebug.remote_port=9000
 xdebug.max_nesting_level=300
 EOF
