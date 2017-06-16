@@ -22,9 +22,7 @@ class AltoView {
   protected $template_path;
 
   public function __construct($vars = array()) {
-    foreach ($vars as $name => $value) {
-      $this->$name = $value;
-    }
+    $this->vars = $vars;
   }
   public function _set($name, $value) {
     $this->$name = $value;
@@ -33,8 +31,11 @@ class AltoView {
     return $this->$name;
   }
   public function render() {
-    if(file_exists($this->template_path)) {
-      include $this->template_path;
+    foreach ($this->vars as $name => $value) {
+      $$name = $value;
+    }
+    if(file_exists($template_path)) {
+      include $template_path;
     }
     else {
       throw new Exception("File not found at $this->template_path");

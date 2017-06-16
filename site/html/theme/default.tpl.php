@@ -17,10 +17,10 @@
 
         <div id="image">
             <img 
-                src="<?php print 'images/' . $this->imageName . '.jpg' ?>" 
-                width="<?php echo $this->scaledWidth; ?>" 
-                height="<?php echo $this->scaledHeight; ?>" />
-                <?php foreach ($this->strings as $string) { ?>
+                src="<?php print 'images/' . $imageName . '.jpg' ?>" 
+                width="<?php echo $scaledWidth; ?>" 
+                height="<?php echo $scaledHeight; ?>" />
+                <?php foreach ($strings as $string) { ?>
               <div class="highlighter" id="highlight-string" 
                    style=" left: <?php echo $string->getHPos(); ?>px; 
                    top: <?php echo $string->getVPos(); ?>px; 
@@ -36,7 +36,7 @@
               });
             </script>
 
-            <?php foreach ($this->textLines as $textLine) { ?>
+            <?php foreach ($textLines as $textLine) { ?>
               <div class="highlighter" id="highlight-line" 
                    style=" left: <?php echo $textLine->getHPos(); ?>px; 
                    top: <?php echo $textLine->getVPos(); ?>px; 
@@ -52,7 +52,7 @@
               });
             </script>
 
-            <?php foreach ($this->textBlocks as $textBlock) { ?>
+            <?php foreach ($textBlocks as $textBlock) { ?>
               <div class="highlighter" id="highlight-block" 
                    style=" left: <?php echo $textBlock->getHPos(); ?>px; 
                    top: <?php echo $textBlock->getVPos(); ?>px; 
@@ -69,10 +69,10 @@
             </script>
 
             <div class="highlighter" id="highlight-printspace" 
-                 style=" left: <?php echo $this->printSpace->getHPos(); ?>px; 
-                 top: <?php echo $this->printSpace->getVPos(); ?>px; 
-                 width: <?php echo $this->printSpace->getWidth(); ?>px; 
-                 height: <?php echo $this->printSpace->getHeight(); ?>px; 
+                 style=" left: <?php echo $printSpace->getHPos(); ?>px; 
+                 top: <?php echo $printSpace->getVPos(); ?>px; 
+                 width: <?php echo $printSpace->getWidth(); ?>px; 
+                 height: <?php echo $printSpace->getHeight(); ?>px; 
                  display: none;
                  filter: alpha(opacity=20)" >
             </div>
