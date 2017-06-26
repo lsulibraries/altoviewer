@@ -13,21 +13,11 @@
 
         <div id="image">
             <img
-                src="<?php print 'images/' . $imageName . '.jpg' ?>" 
+                src="<?php print 'images/mn_19231115_001.jpg' ?>" 
                 width="<?php echo $scaledWidth; ?>" 
                 height="<?php echo $scaledHeight; ?>" />
 
-            <?php foreach ($textBlocks as $textBlock) { ?>
-              <div class="highlighter" id="highlight-block" 
-                   style=" 
-                   left:    <?php echo $textBlock->getHPos(); ?>px; 
-                   top:     <?php echo $textBlock->getVPos(); ?>px; 
-                   width:   <?php echo $textBlock->getWidth(); ?>px; 
-                   height:  <?php echo $textBlock->getHeight(); ?>px; 
-                   display: none;
-                   filter:  alpha(opacity=50)" >
-              </div>
-            <?php } ?>
+            <?php echo $content; ?>
             <script>
               $("button[id*=blocks]").click(function () {
                   $("div[id*=highlight-block]").toggle();

@@ -33,15 +33,15 @@ dd {
     opacity: 0.5;    
 }
 
-#highlight-string {
+.highlight-string {
     border: solid 1px #f0f;
     background-color: #111;
 }
-#highlight-line {
+.highlight-line {
     border: solid 1px #f00;
     background-color: #99FF99;
 }
-#highlight-block {
+.highlight-block {
     border: solid 1px #1f1;
     background-color: #FFCCFF;
 }

@@ -5,10 +5,10 @@ require_once 'AltoViewerRenderer.php';
 
 class AltoViewerArticles extends AltoViewer {
 
-  public function __construct($config, $fileId, $vScale, $hScale) {
+  public function __construct($config, $fileId, $vScale, $hScale, $content) {
     parent::__construct($config['altoDir'], $config['imageDir'], $fileId, $vScale, $hScale);
 
-    $textBlocks = $this->getTextBlocks();
+    //$textBlocks = $this->getTextBlocks();
     $imageSize = $this->imageSize;
     $imageName = $this->imageName;
     $scaledHeight = $imageSize[1] * $vScale;
@@ -23,7 +23,8 @@ class AltoViewerArticles extends AltoViewer {
         "imageName",
         "textBlocks",
         "scaledHeight",
-        "scaledWidth"
+        "scaledWidth",
+        "content"
     );
     $this->renderer = new AltoViewerRenderer($template_path, $vars);
   }

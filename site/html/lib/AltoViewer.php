@@ -46,7 +46,7 @@ class AltoViewer
       $this->_vScale = $vScale;    
       $this->_hScale = $hScale;    
 
-      $this->_loadAlto($this->_altoDir . DIRECTORY_SEPARATOR . $this->_fileId . '.xml');
+      $this->_loadAlto($this->_altoDir . DIRECTORY_SEPARATOR . $this->_fileId . '-ALTO00001.xml');
       $this->_setImageSize();
       $this->imageSize = $this->getImageSize();
       $this->imageName = $this->getImageName();
@@ -123,7 +123,7 @@ class AltoViewer
     }
     
     public function getImageName(){
-      return $img = 'mn_' .str_replace('-ALTO00', '_', $this->_fileId);
+      return $img = 'mn_' .str_replace('-ALTO00', '_', $this->_fileId) . '_001';
     }
 
     /**
