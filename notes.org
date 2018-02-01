@@ -1,0 +1,9 @@
+- for a given METS doc, get all the DMDIDs //structMap[@TYPE="LOGICAL"]/div//div[@DMDID]/@DMDID
+  - for a given DMDID, get all areas with //structMap[@TYPE="LOGICAL"]/div//div[@DMDID="MODSMD_ARTICLE1"]//area
+  - from the <area>s, get alto @FILEID and @BEGIN
+    - //structMap[@TYPE="LOGICAL"]/div//div[@DMDID="MODSMD_ARTICLE1"]//area/concat(@FILEID, ',', @BEGIN)
+- in alto, get text for a give @BEGIN in @FILEID with 
+  - 
+
+- http://cdm16313.contentdm.oclc.org/utils/getarticleclippings/collection/LMNP01/id/0/articleId/MODSMD_ARTICLE1/compObjId/4/lang/en_US/dmtext/
+  - 

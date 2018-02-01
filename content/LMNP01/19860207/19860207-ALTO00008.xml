@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/metae/alto-1-2.xsd" xmlns:xlink="http://www.w3.org/TR/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//docstorage2/impdata3/IN/Loyola_10-018/Maroon_1985_1988/0147.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.5-1.31</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+					<softwareVersion>10.0</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+		<OCRProcessing ID="OCRPROCESSING_2">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.5-1.31</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+					<softwareVersion>7.1</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="10" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_1" FONTSIZE="13" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_2" FONTSIZE="11" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_3" FONTSIZE="38" FONTFAMILY="Arial" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_4" FONTSIZE="42" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_5" FONTSIZE="61" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+		<ParagraphStyle ID="PAR_CENTER" ALIGN="Center"/>
+		<ParagraphStyle ID="PAR_RIGHT" ALIGN="Right"/>
+	</Styles>
+	<Layout>
+		<Page ID="P8" PHYSICAL_IMG_NR="8" HEIGHT="3768" WIDTH="2878" PRINTED_IMG_NR="8" PC="0.941">
+			<TopMargin ID="P8_TM00001" HPOS="0" VPOS="0" WIDTH="2878" HEIGHT="70"/>
+			<LeftMargin ID="P8_LM00001" HPOS="0" VPOS="70" WIDTH="211" HEIGHT="3539"/>
+			<RightMargin ID="P8_RM00001" HPOS="2737" VPOS="70" WIDTH="141" HEIGHT="3539"/>
+			<BottomMargin ID="P8_BM00001" HPOS="0" VPOS="3609" WIDTH="2878" HEIGHT="159"/>
+			<PrintSpace ID="P8_PS00001" HPOS="211" VPOS="70" WIDTH="2526" HEIGHT="3539">
+				<TextBlock ID="P8_TB00001" HPOS="211" VPOS="90" WIDTH="140" HEIGHT="35" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P8_TL00001" HPOS="211" VPOS="90" WIDTH="140" HEIGHT="35">
+						<String ID="P8_ST00001" HPOS="211" VPOS="90" WIDTH="140" HEIGHT="35" CONTENT="8" WC="1.00" CC="0"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P8_TB00002" HPOS="1338" VPOS="79" WIDTH="275" HEIGHT="30" STYLEREFS="TXT_1 PAR_CENTER">
+					<TextLine ID="P8_TL00002" HPOS="1339" VPOS="80" WIDTH="274" HEIGHT="29">
+						<String ID="P8_ST00002" HPOS="1339" VPOS="83" WIDTH="63" HEIGHT="26" CONTENT="the" WC="0.96" CC="217"/>
+						<SP ID="P8_SP00001" HPOS="1402" VPOS="109" WIDTH="11"/>
+						<String ID="P8_ST00003" HPOS="1413" VPOS="80" WIDTH="200" HEIGHT="29" CONTENT="MAROON" WC="0.99" CC="401005"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P8_TB00003" HPOS="2347" VPOS="70" WIDTH="368" HEIGHT="36" STYLEREFS="TXT_2 PAR_RIGHT">
+					<TextLine ID="P8_TL00003" HPOS="2348" VPOS="71" WIDTH="367" HEIGHT="35">
+						<String ID="P8_ST00004" HPOS="2348" VPOS="72" WIDTH="205" HEIGHT="34" CONTENT="Febrwary" WC="0.83" CC="21023501"/>
+						<SP ID="P8_SP00002" HPOS="2553" VPOS="106" WIDTH="12"/>
+						<String ID="P8_ST00005" HPOS="2565" VPOS="71" WIDTH="150" HEIGHT="31" CONTENT="7,1986" WC="0.78" CC="231151"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P8_CB00001" HPOS="222" VPOS="187" WIDTH="2515" HEIGHT="3422" TYPE="Advertisement">
+					<TextBlock ID="P8_TB00004" HPOS="222" VPOS="187" WIDTH="2515" HEIGHT="3422" STYLEREFS="TXT_3 PAR_LEFT">
+						<TextLine ID="P8_TL00004" HPOS="249" VPOS="326" WIDTH="2472" HEIGHT="140">
+							<String ID="P8_ST00006" HPOS="249" VPOS="329" WIDTH="564" HEIGHT="121" CONTENT="Always" WC="1.00" CC="012012" STYLEREFS="TXT_4"/>
+							<SP ID="P8_SP00003" HPOS="813" VPOS="450" WIDTH="101"/>
+							<String ID="P8_ST00007" HPOS="914" VPOS="334" WIDTH="430" HEIGHT="99" CONTENT="there" WC="1.00" CC="01000" STYLEREFS="TXT_4"/>
+							<SP ID="P8_SP00004" HPOS="1344" VPOS="450" WIDTH="83"/>
+							<String ID="P8_ST00008" HPOS="1427" VPOS="341" WIDTH="425" HEIGHT="100" CONTENT="when" WC="1.00" CC="1001" STYLEREFS="TXT_4"/>
+							<SP ID="P8_SP00005" HPOS="1852" VPOS="450" WIDTH="85"/>
+							<String ID="P8_ST00009" HPOS="1937" VPOS="367" WIDTH="273" HEIGHT="99" CONTENT="you" WC="0.99" CC="101" STYLEREFS="TXT_4"/>
+							<SP ID="P8_SP00006" HPOS="2210" VPOS="466" WIDTH="484"/>
+							<String ID="P8_ST00010" HPOS="2694" VPOS="326" WIDTH="27" HEIGHT="115" CONTENT="I" WC="0.96" CC="1" STYLEREFS="TXT_4"/>
+						</TextLine>
+						<TextLine ID="P8_TL00005" HPOS="269" VPOS="490" WIDTH="716" HEIGHT="100">
+							<String ID="P8_ST00011" HPOS="269" VPOS="490" WIDTH="352" HEIGHT="100" CONTENT="need" WC="1.00" CC="1002" STYLEREFS="TXT_4"/>
+							<SP ID="P8_SP00007" HPOS="621" VPOS="590" WIDTH="68"/>
+							<String ID="P8_ST00012" HPOS="689" VPOS="490" WIDTH="296" HEIGHT="95" CONTENT="him" WC="1.00" CC="100" STYLEREFS="TXT_4"/>
+						</TextLine>
+						<TextLine ID="P8_TL00006" HPOS="273" VPOS="746" WIDTH="1424" HEIGHT="103">
+							<String ID="P8_ST00013" HPOS="273" VPOS="776" WIDTH="74" HEIGHT="71" CONTENT="a" WC="1.00" CC="0"/>
+							<SP ID="P8_SP00008" HPOS="347" VPOS="847" WIDTH="98"/>
+							<String ID="P8_ST00014" HPOS="445" VPOS="748" WIDTH="522" HEIGHT="101" CONTENT="friend" WC="0.99" CC="410111"/>
+							<SP ID="P8_SP00009" HPOS="967" VPOS="849" WIDTH="90"/>
+							<String ID="P8_ST00015" HPOS="1057" VPOS="748" WIDTH="245" HEIGHT="99" CONTENT="for" WC="0.98" CC="500"/>
+							<SP ID="P8_SP00010" HPOS="1302" VPOS="849" WIDTH="71"/>
+							<String ID="P8_ST00016" HPOS="1373" VPOS="746" WIDTH="324" HEIGHT="100" CONTENT="life." WC="1.00" CC="10001"/>
+						</TextLine>
+						<TextLine ID="P8_TL00007" HPOS="267" VPOS="2177" WIDTH="2334" HEIGHT="193">
+							<String ID="P8_ST00017" HPOS="267" VPOS="2236" WIDTH="302" HEIGHT="59" CONTENT="Danna" WC="0.98" CC="00110"/>
+							<SP ID="P8_SP00011" HPOS="569" VPOS="2295" WIDTH="34"/>
+							<String ID="P8_ST00018" HPOS="603" VPOS="2234" WIDTH="327" HEIGHT="61" CONTENT="Center" WC="1.00" CC="011021"/>
+							<SP ID="P8_SP00012" HPOS="930" VPOS="2295" WIDTH="30"/>
+							<String ID="P8_ST00019" HPOS="960" VPOS="2234" WIDTH="232" HEIGHT="60" CONTENT="Loun" STYLE="superscript" WC="0.97" CC="0101"/>
+							<String ID="P8_ST00020" HPOS="1197" VPOS="2177" WIDTH="1404" HEIGHT="193" CONTENT="S^P||B^P^^fijHk" WC="0.59" CC="492124939922029"/>
+						</TextLine>
+						<TextLine ID="P8_TL00008" HPOS="367" VPOS="3284" WIDTH="505" HEIGHT="83">
+							<String ID="P8_ST00021" HPOS="367" VPOS="3284" WIDTH="400" HEIGHT="37" CONTENT="bloodcenter" STYLE="superscript" WC="0.94" CC="03010011011" STYLEREFS="TXT_5"/>
+							<SP ID="P8_SP00013" HPOS="767" VPOS="3321" WIDTH="96"/>
+							<String ID="P8_ST00022" HPOS="863" VPOS="3357" WIDTH="9" HEIGHT="10" CONTENT="." WC="0.92" CC="1" STYLEREFS="TXT_5"/>
+							<SP ID="P8_SP00014" HPOS="872" VPOS="3367" WIDTH="0"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="17.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <folder path="19231115/"/>
+        <folder path="19450427/"/>
+        <folder path="19680315/"/>
+        <folder path="19860207/"/>
+        <folder path="20091211/"/>
+    </projectTree>
+</project>

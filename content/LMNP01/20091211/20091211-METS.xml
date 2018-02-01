@@ -1,0 +1,3411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://schema.ccs-gmbh.com/docworks/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="Newspaper" LABEL="The Maroon Vol. 88 No. 12">
+	<metsHdr CREATEDATE="2012-12-12T00:33:23" LASTMODDATE="2012-12-12T00:33:23">
+		<agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+			<name>CCS docWORKS/METAe Version 6.5-1</name>
+			<note>docWORKS-ID: 280376</note>
+		</agent>
+	</metsHdr>
+	<dmdSec ID="MODSMD_PRINT">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the printed version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PRINT_TI2" xml:lang="en">
+						<MODS:title>The Maroon</MODS:title>
+						<MODS:partNumber>88</MODS:partNumber>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:identifier type="local">Maroon_2009_2012</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ELEC">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the electronic version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:originInfo>
+						<MODS:dateCreated point="start" keyDate="yes" qualifier="approximate">2012-12-12</MODS:dateCreated>
+					</MODS:originInfo>
+					<MODS:titleInfo ID="MODSMD_ELEC_TI2" xml:lang="en">
+						<MODS:title>The Maroon</MODS:title>
+						<MODS:partNumber>88</MODS:partNumber>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:identifier type="local">Maroon_2009_2012</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ISSUE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of Issue">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ISSUE1_TI2" xml:lang="en">
+						<MODS:title>The Maroon</MODS:title>
+						<MODS:partNumber>12</MODS:partNumber>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:originInfo>
+						<MODS:dateIssued point="start" keyDate="yes" qualifier="approximate">2009.12.11</MODS:dateIssued>
+					</MODS:originInfo>
+					<MODS:identifier type="local">Maroon_2009_2012</MODS:identifier>
+					<MODS:relatedItem ID="MODSMD_ISSUE1_RI2" type="host">
+						<MODS:identifier type="local">88</MODS:identifier>
+					</MODS:relatedItem>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE1_TI29" xml:lang="en">
+						<MODS:title>New program changes orientation</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE1_N10" type="personal">
+						<MODS:namePart type="given">CRAIG MALVEAUX Senior Staff</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE2">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE2_TI30" xml:lang="en">
+						<MODS:title>Leaders of SGA look back on promises</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE2_N11" type="personal">
+						<MODS:namePart type="given">CHARMAINE JACKSON Contributing</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE3">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE3_TI31" xml:lang="en">
+						<MODS:title>Assembly Required</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT1_TI21" xml:lang="en">
+						<MODS:title>ELLE MALONEY / Photo editor Jessica Strong, graphic design junior, and Lizzy Margiotta, graphic design and mass communication senior, sort through student artwork to display on the walls for their show in the Danna Center Art Gallery on Dec. 9.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE4">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE4_TI32" xml:lang="en">
+						<MODS:title>College plans to change advising</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE4_N12" type="personal">
+						<MODS:namePart type="given">JEAN-PAUL ARGUELLO Senior Staff</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE5">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE5_TI33" xml:lang="en">
+						<MODS:title>New deal calls for new wheels</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE5_N13" type="personal">
+						<MODS:namePart type="given">PRECIOUS ESIE Assistant News</MODS:namePart>
+						<MODS:namePart type="family">Editor</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE6">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE6_TI34" xml:lang="en">
+						<MODS:title>Campus Watch: a summary of violations reported at or around Loyola</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT2">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT2_TI22" xml:lang="en">
+						<MODS:title>OFF-CAMPUS CRIME</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION1_TI7" xml:lang="en">
+						<MODS:title>PAGE THREE</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION2">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION2_TI8" xml:lang="en">
+						<MODS:title>NEWS BRIEFS</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE7">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 2">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE7_TI35" xml:lang="en">
+						<MODS:title>Two new SGA senators voted in</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE8">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 2">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE8_TI36" xml:lang="en">
+						<MODS:title>Employees can now get vaccinations</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE9">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 2">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE9_TI37" xml:lang="en">
+						<MODS:title>Composer will perform at Loyola</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE10">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 2">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE10_TI38" xml:lang="en">
+						<MODS:title>Winterfest ends with Mass, pancakes</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE11">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE11_TI39" xml:lang="en">
+						<MODS:title>Loyola will host mayoral debate</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE11_N14" type="personal">
+						<MODS:namePart type="given">MAI BADER Contributing</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE12">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE12_TI40" xml:lang="en">
+						<MODS:title>Santa Babies</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT3">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT3_TI23" xml:lang="en">
+						<MODS:title>Caitlin Sullivan / Assistant photo editor Children take their picture with Santa at a Singing with Santa event presented by the alumni association on Sunday, Dec 6 in the St. Charles Room.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE13">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE13_TI41" xml:lang="en">
+						<MODS:title>Whelan Center adds waitlist fee</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE13_N15" type="personal">
+						<MODS:namePart type="given">MONICA VO Contributing</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE14">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE14_TI42" xml:lang="en">
+						<MODS:title>Crescent City Radio receives funding</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE14_N16" type="personal">
+						<MODS:namePart type="given">RUSSELL SHELTON Contributing</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT4">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT4_TI24" xml:lang="en">
+						<MODS:title>Caitlin Sullivan / Assistant photo editor Two DJs host a show on Crescent City Radio. With money from the music department, the station may be able to become a self-sustaining organization in the future.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION3">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION3_TI9" xml:lang="en">
+						<MODS:title>Life times</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE15">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE15_TI43" xml:lang="en">
+						<MODS:title>Hipsters are no agents of change</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT5">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT5_TI25" xml:lang="en">
+						<MODS:title>Untitled</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE16">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE16_TI44" xml:lang="en">
+						<MODS:nonSort>A</MODS:nonSort>
+						<MODS:title>(non) Christmas Story</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE16_N17" type="personal">
+						<MODS:namePart type="given">JESSICA BURROLA Contributing Writer Graphic by Kaitlin</MODS:namePart>
+						<MODS:namePart type="family">Riley</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT6">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT6_TI26" xml:lang="en">
+						<MODS:title>Untitled</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE17">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE17_TI45" xml:lang="en">
+						<MODS:title>Plays garner attention</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE17_N18" type="personal">
+						<MODS:namePart type="given">PRECIOUS ESIE Assistant News</MODS:namePart>
+						<MODS:namePart type="family">Editor</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT7">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT7_TI27" xml:lang="en">
+						<MODS:title>ELLE MALONEY / Photo editor Psychology seniors Andy Niemann, left, and Lewis Baker perform in philosophy senior Sergio Lobo-Navia's play "The Goats" Wednesday, Dec. 9 in Marguette Theater.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT8">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT8_TI28" xml:lang="en">
+						<MODS:title>ELLE MALONEY / Photo editor Theater freshmen Andrew Gude and Rachel Christian perform theater junior Ethan Labourdette's "Revised" Wednesday, Dec. 9.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE18">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE18_TI46" xml:lang="en">
+						<MODS:title>Alumnus' Christmas book gains success</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE18_N19" type="personal">
+						<MODS:namePart type="given">ASHLEY STEVENS Contributing</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT9">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT9_TI29" xml:lang="en">
+						<MODS:title>"Tinsel," by Hank Stuever</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE19">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE19_TI47" xml:lang="en">
+						<MODS:title>Holiday events bring out New Orleans flavor</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE19_N20" type="personal">
+						<MODS:namePart type="given">AMANDA JEFFRIES Assistant</MODS:namePart>
+						<MODS:namePart type="family">Life</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:name ID="MODSMD_ARTICLE19_N21" type="personal">
+						<MODS:namePart type="given">Times</MODS:namePart>
+						<MODS:namePart type="family">Editor</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT10">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT10_TI30" xml:lang="en">
+						<MODS:title>ELLE MALONEY / Photo editor Christmas lights adorn the bushes in Jackson Square in the French Quarter Wednesday, Dec. 9. Caroling in Jackson Square will take place here Sunday, Dec. 20 at 7 p.m.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE20">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE20_TI48" xml:lang="en">
+						<MODS:nonSort>A</MODS:nonSort>
+						<MODS:title>look at upcoming music from the Loyola crowd</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION4">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION4_TI10" xml:lang="en">
+						<MODS:title>SPORTS</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE21">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE21_TI49" xml:lang="en">
+						<MODS:title>Cheerleaders lack support from athletics</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT11">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT11_TI31" xml:lang="en">
+						<MODS:title>Untitled</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE22">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE22_TI50" xml:lang="en">
+						<MODS:title>Tennis gears up for season</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE22_N22" type="personal">
+						<MODS:namePart type="given">BRITTNEY HOLMES Assistant Sports</MODS:namePart>
+						<MODS:namePart type="family">Editor</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE23">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE23_TI51" xml:lang="en">
+						<MODS:title>Kennedy follows passion for coaching</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE23_N23" type="personal">
+						<MODS:namePart type="given">CRAIG MALVEAUX Senior Staff</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT12">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT12_TI32" xml:lang="en">
+						<MODS:title>FILE PHOTO/The Maroon Kellie Kennedy, who joined the Loyola Athletics Department in 2008, coaches her team at a recent game.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE24">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE24_TI52" xml:lang="en">
+						<MODS:title>SPORTSBRIEFS</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE25">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE25_TI53" xml:lang="en">
+						<MODS:title>Track the 'Pack</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE26">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE26_TI54" xml:lang="en">
+						<MODS:title>Leaders of the' Pack</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE27">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE27_TI55" xml:lang="en">
+						<MODS:title>'Pack Updates</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE28">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE28_TI56" xml:lang="en">
+						<MODS:title>Baseball team concentrates on class</MODS:title>
+					</MODS:titleInfo>
+					<MODS:name ID="MODSMD_ARTICLE28_N24" type="personal">
+						<MODS:namePart type="given">CRAIG MALVEAUX Senior Staff</MODS:namePart>
+						<MODS:namePart type="family">Writer</MODS:namePart>
+						<MODS:role>
+							<MODS:roleTerm>aut</MODS:roleTerm>
+						</MODS:role>
+					</MODS:name>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT13">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT13_TI33" xml:lang="en">
+						<MODS:title>FILE PHOTO/The Maroon Loyola's baseball team takes a break to huddle during a game last spring. Currently, they are taking a break from practice to prepare for their upcoming season.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION5">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION5_TI11" xml:lang="en">
+						<MODS:title>EDITORIAL</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE29">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE29_TI57" xml:lang="en">
+						<MODS:title>GOP should not advocate samesex marriages</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE30">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE30_TI58" xml:lang="en">
+						<MODS:title>Editorial Cartoon</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT14">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT14_TI34" xml:lang="en">
+						<MODS:title>SARAH AZPEITIA / The Maroon</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE31">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE31_TI59" xml:lang="en">
+						<MODS:title>SGA leaders have work to do to fulfill campaign promises</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION6">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_SECTION6_TI12" xml:lang="en">
+						<MODS:title>OPINION</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE32">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE32_TI60" xml:lang="en">
+						<MODS:title>Smokers without options</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT15">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT15_TI35" xml:lang="en">
+						<MODS:title>Chad Carlile Undisputed Truth</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE33">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE33_TI61" xml:lang="en">
+						<MODS:title>New policy may herald change</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT16">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT16_TI36" xml:lang="en">
+						<MODS:title>Buddy Noel On The Record</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT17">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT17_TI37" xml:lang="en">
+						<MODS:title>ASSOCIATED PRESS Pope Benedict XVI greets crowds in the Vatican. The Pope recently eased requirements for Anglican converts.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE34">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article 1">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE34_TI62" xml:lang="en">
+						<MODS:title>Orleans Room overcrowding will continue</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT18">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT18_TI38" xml:lang="en">
+						<MODS:title>Chris Backes In My Opinion</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT19">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT19_TI39" xml:lang="en">
+						<MODS:title>KEVIN ZANSLER/The Maroon Tulane's Bruff Commons offer a somewhat dubious solution to the problem of overcrowding in the Orleans Room. Students cite worse food as one of its main problems.</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION7">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section 0">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<amdSec ID="IMGPARAM00001">
+		<techMD ID="IMGPARAM00001TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_001.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1753306</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3444</mix:ImageWidth>
+								<mix:ImageLength>5099</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0098.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00002">
+		<techMD ID="IMGPARAM00002TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_002.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1732793</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3402</mix:ImageWidth>
+								<mix:ImageLength>5095</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0099.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00003">
+		<techMD ID="IMGPARAM00003TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_003.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1750680</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3433</mix:ImageWidth>
+								<mix:ImageLength>5102</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0099.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00004">
+		<techMD ID="IMGPARAM00004TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_004.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1748230</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3425</mix:ImageWidth>
+								<mix:ImageLength>5104</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0100.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00005">
+		<techMD ID="IMGPARAM00005TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_005.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1761360</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3458</mix:ImageWidth>
+								<mix:ImageLength>5099</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0100.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00006">
+		<techMD ID="IMGPARAM00006TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_006.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1756993</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3439</mix:ImageWidth>
+								<mix:ImageLength>5108</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0101.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00007">
+		<techMD ID="IMGPARAM00007TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_007.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1725037</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3383</mix:ImageWidth>
+								<mix:ImageLength>5099</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0101.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00008">
+		<techMD ID="IMGPARAM00008TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_008.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1745391</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3429</mix:ImageWidth>
+								<mix:ImageLength>5091</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0102.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00009">
+		<techMD ID="IMGPARAM00009TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_009.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1736662</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3406</mix:ImageWidth>
+								<mix:ImageLength>5101</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0102.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00010">
+		<techMD ID="IMGPARAM00010TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_010.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1776417</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3477</mix:ImageWidth>
+								<mix:ImageLength>5114</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0103.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00011">
+		<techMD ID="IMGPARAM00011TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_011.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1729352</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3381</mix:ImageWidth>
+								<mix:ImageLength>5114</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0103.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00012">
+		<techMD ID="IMGPARAM00012TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//docstorage2/impdata2/OUT/Loyola_10-018/Maroon_2009_2012/20091211">mn_20091211_012.jp2</mix:ImageIdentifier>
+								<mix:FileSize>1770838</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-30</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>6.0 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3467</mix:ImageWidth>
+								<mix:ImageLength>5112</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./Loyola_10-018/Maroon_2009_2012/0104.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<fileSec>
+		<fileGrp ID="IMGGRP" USE="Images">
+			<file ID="IMG00001" CREATED="2012-12-12T00:29:07" ADMID="IMGPARAM00001" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="3d753fdaa7fc6676df7b8174545c8346" CHECKSUMTYPE="MD5" SIZE="1753306">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_001.jp2"/>
+			</file>
+			<file ID="IMG00002" CREATED="2012-12-12T00:30:29" ADMID="IMGPARAM00002" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="c88a492e62e1cd4430b3a20b3f5b7cfe" CHECKSUMTYPE="MD5" SIZE="1732793">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_002.jp2"/>
+			</file>
+			<file ID="IMG00003" CREATED="2012-12-12T00:30:57" ADMID="IMGPARAM00003" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="9e54d1f86a7832741cd425635c7c185e" CHECKSUMTYPE="MD5" SIZE="1750680">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_003.jp2"/>
+			</file>
+			<file ID="IMG00004" CREATED="2012-12-12T00:31:13" ADMID="IMGPARAM00004" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="ef76691e097c2194ec0fb335010c7038" CHECKSUMTYPE="MD5" SIZE="1748230">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_004.jp2"/>
+			</file>
+			<file ID="IMG00005" CREATED="2012-12-12T00:31:33" ADMID="IMGPARAM00005" MIMETYPE="image/jp2" SEQ="5" CHECKSUM="18dbe64efd5544007d5baa48c1d0cf73" CHECKSUMTYPE="MD5" SIZE="1761360">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_005.jp2"/>
+			</file>
+			<file ID="IMG00006" CREATED="2012-12-12T00:31:47" ADMID="IMGPARAM00006" MIMETYPE="image/jp2" SEQ="6" CHECKSUM="f8ee103f655eb9ddd205f900e8de3b92" CHECKSUMTYPE="MD5" SIZE="1756993">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_006.jp2"/>
+			</file>
+			<file ID="IMG00007" CREATED="2012-12-12T00:32:00" ADMID="IMGPARAM00007" MIMETYPE="image/jp2" SEQ="7" CHECKSUM="0b44d2d86dc04306d9178f492d332ccc" CHECKSUMTYPE="MD5" SIZE="1725037">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_007.jp2"/>
+			</file>
+			<file ID="IMG00008" CREATED="2012-12-12T00:32:11" ADMID="IMGPARAM00008" MIMETYPE="image/jp2" SEQ="8" CHECKSUM="c7a696ac1c20f355a92525371039a163" CHECKSUMTYPE="MD5" SIZE="1745391">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_008.jp2"/>
+			</file>
+			<file ID="IMG00009" CREATED="2012-12-12T00:32:25" ADMID="IMGPARAM00009" MIMETYPE="image/jp2" SEQ="9" CHECKSUM="06ec6f5d399ee493b5a6ee0af57ccc07" CHECKSUMTYPE="MD5" SIZE="1736662">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_009.jp2"/>
+			</file>
+			<file ID="IMG00010" CREATED="2012-12-12T00:32:39" ADMID="IMGPARAM00010" MIMETYPE="image/jp2" SEQ="10" CHECKSUM="e8d7c41a0dec9d591891aeab503aba81" CHECKSUMTYPE="MD5" SIZE="1776417">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_010.jp2"/>
+			</file>
+			<file ID="IMG00011" CREATED="2012-12-12T00:32:54" ADMID="IMGPARAM00011" MIMETYPE="image/jp2" SEQ="11" CHECKSUM="85444b7afdaa6339c7c6c188825e12a8" CHECKSUMTYPE="MD5" SIZE="1729352">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_011.jp2"/>
+			</file>
+			<file ID="IMG00012" CREATED="2012-12-12T00:33:08" ADMID="IMGPARAM00012" MIMETYPE="image/jp2" SEQ="12" CHECKSUM="50e9986bfdb76285964cf1f1a406c81d" CHECKSUMTYPE="MD5" SIZE="1770838">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211/mn_20091211_012.jp2"/>
+			</file>
+		</fileGrp>
+		<fileGrp ID="ALTOGRP" USE="Text">
+			<file ID="ALTO00001" CREATED="2012-12-12T00:33:16" MIMETYPE="text/xml" CHECKSUM="09e6db06c5f06e95b115a5282f0b6449" CHECKSUMTYPE="MD5" SIZE="221330">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00001.xml"/>
+			</file>
+			<file ID="ALTO00002" CREATED="2012-12-12T00:33:16" MIMETYPE="text/xml" CHECKSUM="e74889b8dc97c7e0297908e57eb8c77c" CHECKSUMTYPE="MD5" SIZE="153724">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00002.xml"/>
+			</file>
+			<file ID="ALTO00003" CREATED="2012-12-12T00:33:16" MIMETYPE="text/xml" CHECKSUM="684040e3871e06a32d9762d3ffb5abc0" CHECKSUMTYPE="MD5" SIZE="275787">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00003.xml"/>
+			</file>
+			<file ID="ALTO00004" CREATED="2012-12-12T00:33:17" MIMETYPE="text/xml" CHECKSUM="f258299cd6fbd84de4e52cfd6aecb132" CHECKSUMTYPE="MD5" SIZE="359779">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00004.xml"/>
+			</file>
+			<file ID="ALTO00005" CREATED="2012-12-12T00:33:17" MIMETYPE="text/xml" CHECKSUM="6efd9a5a7061703596a13aafcaae1377" CHECKSUMTYPE="MD5" SIZE="237527">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00005.xml"/>
+			</file>
+			<file ID="ALTO00006" CREATED="2012-12-12T00:33:18" MIMETYPE="text/xml" CHECKSUM="4f2f2bd21fbd9a15b93a2e9925b3cbf9" CHECKSUMTYPE="MD5" SIZE="111279">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00006.xml"/>
+			</file>
+			<file ID="ALTO00007" CREATED="2012-12-12T00:33:18" MIMETYPE="text/xml" CHECKSUM="9f40db8a86290aa4d759bda9111c90fd" CHECKSUMTYPE="MD5" SIZE="138154">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00007.xml"/>
+			</file>
+			<file ID="ALTO00008" CREATED="2012-12-12T00:33:19" MIMETYPE="text/xml" CHECKSUM="56c1dee0e7caa0017d70fc386a788ccb" CHECKSUMTYPE="MD5" SIZE="293510">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00008.xml"/>
+			</file>
+			<file ID="ALTO00009" CREATED="2012-12-12T00:33:19" MIMETYPE="text/xml" CHECKSUM="e32baeb5279c7f7df0979ef663273d9c" CHECKSUMTYPE="MD5" SIZE="219169">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00009.xml"/>
+			</file>
+			<file ID="ALTO00010" CREATED="2012-12-12T00:33:19" MIMETYPE="text/xml" CHECKSUM="1781584abfe6cb2ee9f38184e1f8289b" CHECKSUMTYPE="MD5" SIZE="259213">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00010.xml"/>
+			</file>
+			<file ID="ALTO00011" CREATED="2012-12-12T00:33:20" MIMETYPE="text/xml" CHECKSUM="8b8b09d345a191e8fd0c9c9f3afd3b5c" CHECKSUMTYPE="MD5" SIZE="322756">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00011.xml"/>
+			</file>
+			<file ID="ALTO00012" CREATED="2012-12-12T00:33:21" MIMETYPE="text/xml" CHECKSUM="3923720bd16750234ddde39f01a2a7c9" CHECKSUMTYPE="MD5" SIZE="167492">
+				<FLocat LOCTYPE="URL" xlink:href="file://./20091211-ALTO00012.xml"/>
+			</file>
+		</fileGrp>
+	</fileSec>
+	<structMap LABEL="Physical Structure" TYPE="PHYSICAL">
+		<div ID="DIVP1" LABEL="The Maroon" TYPE="Newspaper" DMDID="MODSMD_PRINT MODSMD_ELEC">
+			<div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00001"/>
+						<area FILEID="ALTO00001" BETYPE="IDREF" BEGIN="P1"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP3" ORDER="2" ORDERLABEL="2" LABEL="2" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00002"/>
+						<area FILEID="ALTO00002" BETYPE="IDREF" BEGIN="P2"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP4" ORDER="3" ORDERLABEL="3" LABEL="3" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00003"/>
+						<area FILEID="ALTO00003" BETYPE="IDREF" BEGIN="P3"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP5" ORDER="4" ORDERLABEL="4" LABEL="4" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00004"/>
+						<area FILEID="ALTO00004" BETYPE="IDREF" BEGIN="P4"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP6" ORDER="5" ORDERLABEL="5" LABEL="5" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00005"/>
+						<area FILEID="ALTO00005" BETYPE="IDREF" BEGIN="P5"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP7" ORDER="6" ORDERLABEL="6" LABEL="6" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00006"/>
+						<area FILEID="ALTO00006" BETYPE="IDREF" BEGIN="P6"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP8" ORDER="7" ORDERLABEL="7" LABEL="7" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00007"/>
+						<area FILEID="ALTO00007" BETYPE="IDREF" BEGIN="P7"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP9" ORDER="8" ORDERLABEL="8" LABEL="8" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00008"/>
+						<area FILEID="ALTO00008" BETYPE="IDREF" BEGIN="P8"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP10" ORDER="9" ORDERLABEL="9" LABEL="9" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00009"/>
+						<area FILEID="ALTO00009" BETYPE="IDREF" BEGIN="P9"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP11" ORDER="10" ORDERLABEL="10" LABEL="10" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00010"/>
+						<area FILEID="ALTO00010" BETYPE="IDREF" BEGIN="P10"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP12" ORDER="11" ORDERLABEL="11" LABEL="11" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00011"/>
+						<area FILEID="ALTO00011" BETYPE="IDREF" BEGIN="P11"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP13" ORDER="12" ORDERLABEL="12" LABEL="12" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00012"/>
+						<area FILEID="ALTO00012" BETYPE="IDREF" BEGIN="P12"/>
+					</par>
+				</fptr>
+			</div>
+		</div>
+	</structMap>
+	<structMap LABEL="Logical Structure" TYPE="LOGICAL">
+		<div ID="DIVL1" TYPE="Newspaper" LABEL="The Maroon Vol. 88 No. 12">
+			<div ID="DIVL2" TYPE="VOLUME" DMDID="MODSMD_PRINT MODSMD_ELEC" LABEL="The Maroon Vol. 88 No. 12">
+				<div ID="DIVL3" TYPE="ISSUE" DMDID="MODSMD_ISSUE1" LABEL="The Maroon Vol. 88 No. 12">
+					<div ID="DIVL4" TYPE="TITLE_SECTION">
+						<div ID="DIVL5" TYPE="HEADLINE" ORDER="1">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00001"/>
+							</fptr>
+						</div>
+						<div ID="DIVL6" TYPE="TEXTBLOCK" ORDER="2">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00002"/>
+							</fptr>
+						</div>
+						<div ID="DIVL7" TYPE="TEXTBLOCK" ORDER="3">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00003"/>
+							</fptr>
+						</div>
+						<div ID="DIVL8" TYPE="TEXTBLOCK" ORDER="4">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00004"/>
+							</fptr>
+						</div>
+						<div ID="DIVL9" TYPE="TEXTBLOCK" ORDER="5">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00005"/>
+							</fptr>
+						</div>
+					</div>
+					<div ID="DIVL10" TYPE="CONTENT">
+						<div ID="DIVL11" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE1" LABEL="New program changes orientation">
+							<div ID="DIVL12" TYPE="HEADING">
+								<div ID="DIVL13" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00006"/>
+									</fptr>
+								</div>
+								<div ID="DIVL14" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00007"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL15" TYPE="BODY">
+								<div ID="DIVL16" TYPE="BODY_CONTENT">
+									<div ID="DIVL17" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL18" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00008"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00009"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00010"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00011"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00001"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL19" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE2" LABEL="Leaders of SGA look back on promises">
+							<div ID="DIVL20" TYPE="HEADING">
+								<div ID="DIVL21" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00012"/>
+									</fptr>
+								</div>
+								<div ID="DIVL22" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00013"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL23" TYPE="BODY">
+								<div ID="DIVL24" TYPE="BODY_CONTENT">
+									<div ID="DIVL25" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL26" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00014"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00002"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL27" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL28" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00003"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL29" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE3" LABEL="Assembly Required">
+							<div ID="DIVL30" TYPE="HEADING">
+								<div ID="DIVL31" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00015"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL32" TYPE="BODY">
+								<div ID="DIVL33" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT1" LABEL="ELLE MALONEY / Photo editor Jessica Strong, graphic design junior, and Lizzy Margiotta, graphic design and mass communication senior, sort through student artwork to display on the walls for their show in the Danna Center Art Gallery on Dec. 9.">
+									<div ID="DIVL34" TYPE="IMAGE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL35" TYPE="CAPTION">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00016"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL36" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE4" LABEL="College plans to change advising">
+							<div ID="DIVL37" TYPE="HEADING">
+								<div ID="DIVL38" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00017"/>
+									</fptr>
+								</div>
+								<div ID="DIVL39" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00018"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL40" TYPE="BODY">
+								<div ID="DIVL41" TYPE="BODY_CONTENT">
+									<div ID="DIVL42" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL43" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00019"/>
+													<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001"/>
+													<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00002"/>
+													<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00003"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL44" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL45" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00004"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL46" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE5" LABEL="New deal calls for new wheels">
+							<div ID="DIVL47" TYPE="HEADING">
+								<div ID="DIVL48" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00020"/>
+									</fptr>
+								</div>
+								<div ID="DIVL49" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00021"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL50" TYPE="BODY">
+								<div ID="DIVL51" TYPE="BODY_CONTENT">
+									<div ID="DIVL52" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL53" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00022"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL54" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL55" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00023"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00024"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00025"/>
+													<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00026"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00004"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00005"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00006"/>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00007"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL56" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL57" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00008"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL58" TYPE="PARAGRAPH" ORDER="4">
+										<div ID="DIVL59" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00009"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL60" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE6" LABEL="Campus Watch: a summary of violations reported at or around Loyola">
+							<div ID="DIVL61" TYPE="HEADING">
+								<div ID="DIVL62" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL63" TYPE="BODY">
+								<div ID="DIVL64" TYPE="BODY_CONTENT">
+									<div ID="DIVL65" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL66" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002"/>
+													<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00003"/>
+													<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00004"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL67" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL68" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00005"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL69" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT2" LABEL="OFF-CAMPUS CRIME">
+									<div ID="DIVL70" TYPE="IMAGE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL71" TYPE="CAPTION">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00006"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL72" TYPE="SECTION" DMDID="MODSMD_SECTION1" LABEL="PAGE THREE">
+							<div ID="DIVL73" TYPE="HEADING">
+								<div ID="DIVL74" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00005"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL75" TYPE="SECTION" ORDER="1" DMDID="MODSMD_SECTION2" LABEL="NEWS BRIEFS">
+								<div ID="DIVL76" TYPE="HEADING">
+									<div ID="DIVL77" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00006"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL78" TYPE="ARTICLE" ORDER="1" DMDID="MODSMD_ARTICLE7" LABEL="Two new SGA senators voted in">
+									<div ID="DIVL79" TYPE="HEADING">
+										<div ID="DIVL80" TYPE="TITLE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00007"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL81" TYPE="BODY">
+										<div ID="DIVL82" TYPE="BODY_CONTENT">
+											<div ID="DIVL83" TYPE="PARAGRAPH" ORDER="1">
+												<div ID="DIVL84" TYPE="TEXT">
+													<fptr>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00008"/>
+													</fptr>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL85" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE8" LABEL="Employees can now get vaccinations">
+									<div ID="DIVL86" TYPE="HEADING">
+										<div ID="DIVL87" TYPE="TITLE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00009"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL88" TYPE="BODY">
+										<div ID="DIVL89" TYPE="BODY_CONTENT">
+											<div ID="DIVL90" TYPE="PARAGRAPH" ORDER="1">
+												<div ID="DIVL91" TYPE="TEXT">
+													<fptr>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00010"/>
+													</fptr>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL92" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE9" LABEL="Composer will perform at Loyola">
+									<div ID="DIVL93" TYPE="HEADING">
+										<div ID="DIVL94" TYPE="TITLE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL95" TYPE="BODY">
+										<div ID="DIVL96" TYPE="BODY_CONTENT">
+											<div ID="DIVL97" TYPE="PARAGRAPH" ORDER="1">
+												<div ID="DIVL98" TYPE="TEXT">
+													<fptr>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00012"/>
+													</fptr>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL99" TYPE="ARTICLE" ORDER="4" DMDID="MODSMD_ARTICLE10" LABEL="Winterfest ends with Mass, pancakes">
+									<div ID="DIVL100" TYPE="HEADING">
+										<div ID="DIVL101" TYPE="TITLE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00013"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL102" TYPE="BODY">
+										<div ID="DIVL103" TYPE="BODY_CONTENT">
+											<div ID="DIVL104" TYPE="PARAGRAPH" ORDER="1">
+												<div ID="DIVL105" TYPE="TEXT">
+													<fptr>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00014"/>
+													</fptr>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL106" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE11" LABEL="Loyola will host mayoral debate">
+								<div ID="DIVL107" TYPE="HEADING">
+									<div ID="DIVL108" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00015"/>
+										</fptr>
+									</div>
+									<div ID="DIVL109" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00016"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL110" TYPE="BODY">
+									<div ID="DIVL111" TYPE="BODY_CONTENT">
+										<div ID="DIVL112" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL113" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00017"/>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00018"/>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00019"/>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00020"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL114" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE12" LABEL="Santa Babies">
+								<div ID="DIVL115" TYPE="HEADING">
+									<div ID="DIVL116" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00021"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL117" TYPE="BODY">
+									<div ID="DIVL118" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT3" LABEL="Caitlin Sullivan / Assistant photo editor Children take their picture with Santa at a Singing with Santa event presented by the alumni association on Sunday, Dec 6 in the St. Charles Room.">
+										<div ID="DIVL119" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL120" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00022"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL121" TYPE="ARTICLE" ORDER="4" DMDID="MODSMD_ARTICLE13" LABEL="Whelan Center adds waitlist fee">
+								<div ID="DIVL122" TYPE="HEADING">
+									<div ID="DIVL123" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00023"/>
+										</fptr>
+									</div>
+									<div ID="DIVL124" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00024"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL125" TYPE="BODY">
+									<div ID="DIVL126" TYPE="BODY_CONTENT">
+										<div ID="DIVL127" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL128" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00025"/>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00026"/>
+														<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00027"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL129" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL130" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00010"/>
+														<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00011"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL131" TYPE="ARTICLE" ORDER="5" DMDID="MODSMD_ARTICLE14" LABEL="Crescent City Radio receives funding">
+								<div ID="DIVL132" TYPE="HEADING">
+									<div ID="DIVL133" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00028"/>
+										</fptr>
+									</div>
+									<div ID="DIVL134" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00029"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL135" TYPE="BODY">
+									<div ID="DIVL136" TYPE="BODY_CONTENT">
+										<div ID="DIVL137" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL138" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00030"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL139" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL140" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00012"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL141" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL142" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00013"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL143" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT4" LABEL="Caitlin Sullivan / Assistant photo editor Two DJs host a show on Crescent City Radio. With money from the music department, the station may be able to become a self-sustaining organization in the future.">
+										<div ID="DIVL144" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL145" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00014"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL146" TYPE="SECTION" DMDID="MODSMD_SECTION3" LABEL="Life times">
+							<div ID="DIVL147" TYPE="HEADING">
+								<div ID="DIVL148" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00001"/>
+									</fptr>
+								</div>
+								<div ID="DIVL149" TYPE="TEXT">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00002"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL150" TYPE="ARTICLE" ORDER="1" DMDID="MODSMD_ARTICLE15" LABEL="Hipsters are no agents of change">
+								<div ID="DIVL151" TYPE="HEADING">
+									<div ID="DIVL152" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00003"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL153" TYPE="BODY">
+									<div ID="DIVL154" TYPE="BODY_CONTENT">
+										<div ID="DIVL155" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL156" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00004"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL157" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL158" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00005"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL159" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT5" LABEL="Untitled">
+										<div ID="DIVL160" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00001"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL161" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE16" LABEL="A (non) Christmas Story">
+								<div ID="DIVL162" TYPE="HEADING">
+									<div ID="DIVL163" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00006"/>
+										</fptr>
+									</div>
+									<div ID="DIVL164" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00007"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL165" TYPE="BODY">
+									<div ID="DIVL166" TYPE="BODY_CONTENT">
+										<div ID="DIVL167" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL168" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00008"/>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00009"/>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00010"/>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00011"/>
+														<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00001"/>
+														<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00002"/>
+														<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00003"/>
+														<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00004"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL169" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL170" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00012"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL171" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT6" LABEL="Untitled">
+										<div ID="DIVL172" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00002"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL173" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE17" LABEL="Plays garner attention">
+								<div ID="DIVL174" TYPE="HEADING">
+									<div ID="DIVL175" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00013"/>
+										</fptr>
+									</div>
+									<div ID="DIVL176" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00014"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL177" TYPE="BODY">
+									<div ID="DIVL178" TYPE="BODY_CONTENT">
+										<div ID="DIVL179" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL180" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00015"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL181" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL182" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00016"/>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00017"/>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00018"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL183" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL184" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00001"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL185" TYPE="PARAGRAPH" ORDER="4">
+											<div ID="DIVL186" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00002"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL187" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT7" LABEL="ELLE MALONEY / Photo editor Psychology seniors Andy Niemann, left, and Lewis Baker perform in philosophy senior Sergio Lobo-Navia's play &#34;The Goats&#34; Wednesday, Dec. 9 in Marguette Theater.">
+										<div ID="DIVL188" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00003"/>
+											</fptr>
+										</div>
+										<div ID="DIVL189" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL190" TYPE="ILLUSTRATION" ORDER="2" DMDID="MODSMD_PICT8" LABEL="ELLE MALONEY / Photo editor Theater freshmen Andrew Gude and Rachel Christian perform theater junior Ethan Labourdette's &#34;Revised&#34; Wednesday, Dec. 9.">
+										<div ID="DIVL191" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL192" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00003"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL193" TYPE="ARTICLE" ORDER="4" DMDID="MODSMD_ARTICLE18" LABEL="Alumnus' Christmas book gains success">
+								<div ID="DIVL194" TYPE="HEADING">
+									<div ID="DIVL195" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00020"/>
+										</fptr>
+									</div>
+									<div ID="DIVL196" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00021"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL197" TYPE="BODY">
+									<div ID="DIVL198" TYPE="BODY_CONTENT">
+										<div ID="DIVL199" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL200" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00022"/>
+														<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00005"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL201" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT9" LABEL='"Tinsel," by Hank Stuever'>
+										<div ID="DIVL202" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL203" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL204" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE19" LABEL="Holiday events bring out New Orleans flavor">
+							<div ID="DIVL205" TYPE="HEADING">
+								<div ID="DIVL206" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00001"/>
+									</fptr>
+								</div>
+								<div ID="DIVL207" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00002"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL208" TYPE="BODY">
+								<div ID="DIVL209" TYPE="BODY_CONTENT">
+									<div ID="DIVL210" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL211" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00003"/>
+													<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00004"/>
+													<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00005"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL212" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL213" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL214" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL215" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00007"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL216" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT10" LABEL="ELLE MALONEY / Photo editor Christmas lights adorn the bushes in Jackson Square in the French Quarter Wednesday, Dec. 9. Caroling in Jackson Square will take place here Sunday, Dec. 20 at 7 p.m.">
+									<div ID="DIVL217" TYPE="IMAGE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL218" TYPE="CAPTION">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00008"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL219" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE20" LABEL="A look at upcoming music from the Loyola crowd">
+							<div ID="DIVL220" TYPE="HEADING">
+								<div ID="DIVL221" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00004"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL222" TYPE="BODY">
+								<div ID="DIVL223" TYPE="BODY_CONTENT">
+									<div ID="DIVL224" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL225" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00005"/>
+													<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00006"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL226" TYPE="SECTION" DMDID="MODSMD_SECTION4" LABEL="SPORTS">
+							<div ID="DIVL227" TYPE="HEADING">
+								<div ID="DIVL228" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL229" TYPE="ARTICLE" ORDER="1" DMDID="MODSMD_ARTICLE21" LABEL="Cheerleaders lack support from athletics">
+								<div ID="DIVL230" TYPE="HEADING">
+									<div ID="DIVL231" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00002"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL232" TYPE="BODY">
+									<div ID="DIVL233" TYPE="BODY_CONTENT">
+										<div ID="DIVL234" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL235" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00003"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL236" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL237" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00004"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL238" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT11" LABEL="Untitled">
+										<div ID="DIVL239" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00001"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL240" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE22" LABEL="Tennis gears up for season">
+								<div ID="DIVL241" TYPE="HEADING">
+									<div ID="DIVL242" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00005"/>
+										</fptr>
+									</div>
+									<div ID="DIVL243" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00006"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL244" TYPE="BODY">
+									<div ID="DIVL245" TYPE="BODY_CONTENT">
+										<div ID="DIVL246" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL247" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00007"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL248" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL249" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00008"/>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00009"/>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00010"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00001"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00002"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00003"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00004"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL250" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL251" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00005"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL252" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE23" LABEL="Kennedy follows passion for coaching">
+								<div ID="DIVL253" TYPE="HEADING">
+									<div ID="DIVL254" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00011"/>
+										</fptr>
+									</div>
+									<div ID="DIVL255" TYPE="AUTHOR">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00012"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL256" TYPE="BODY">
+									<div ID="DIVL257" TYPE="BODY_CONTENT">
+										<div ID="DIVL258" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL259" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00013"/>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00014"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00006"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00007"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00008"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00009"/>
+														<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00010"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL260" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT12" LABEL="FILE PHOTO/The Maroon Kellie Kennedy, who joined the Loyola Athletics Department in 2008, coaches her team at a recent game.">
+										<div ID="DIVL261" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00002"/>
+											</fptr>
+										</div>
+										<div ID="DIVL262" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00015"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL263" TYPE="ARTICLE" ORDER="4" DMDID="MODSMD_ARTICLE24" LABEL="SPORTSBRIEFS">
+								<div ID="DIVL264" TYPE="HEADING">
+									<div ID="DIVL265" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00016"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL266" TYPE="BODY">
+									<div ID="DIVL267" TYPE="BODY_CONTENT">
+										<div ID="DIVL268" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL269" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00017"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL270" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL271" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00018"/>
+														<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00019"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL272" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL273" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00020"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL274" TYPE="ARTICLE" ORDER="5" DMDID="MODSMD_ARTICLE25" LABEL="Track the 'Pack">
+								<div ID="DIVL275" TYPE="HEADING">
+									<div ID="DIVL276" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00021"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL277" TYPE="BODY">
+									<div ID="DIVL278" TYPE="BODY_CONTENT">
+										<div ID="DIVL279" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL280" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00022"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL281" TYPE="ARTICLE" ORDER="6" DMDID="MODSMD_ARTICLE26" LABEL="Leaders of the' Pack">
+								<div ID="DIVL282" TYPE="HEADING">
+									<div ID="DIVL283" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00023"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL284" TYPE="BODY">
+									<div ID="DIVL285" TYPE="BODY_CONTENT">
+										<div ID="DIVL286" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL287" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00024"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL288" TYPE="ARTICLE" ORDER="7" DMDID="MODSMD_ARTICLE27" LABEL="'Pack Updates">
+								<div ID="DIVL289" TYPE="HEADING">
+									<div ID="DIVL290" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00025"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL291" TYPE="BODY">
+									<div ID="DIVL292" TYPE="BODY_CONTENT">
+										<div ID="DIVL293" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL294" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00026"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL295" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE28" LABEL="Baseball team concentrates on class">
+							<div ID="DIVL296" TYPE="HEADING">
+								<div ID="DIVL297" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00011"/>
+									</fptr>
+								</div>
+								<div ID="DIVL298" TYPE="AUTHOR">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00012"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL299" TYPE="BODY">
+								<div ID="DIVL300" TYPE="BODY_CONTENT">
+									<div ID="DIVL301" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL302" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00013"/>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00014"/>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00015"/>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00016"/>
+													<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00017"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+								<div ID="DIVL303" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT13" LABEL="FILE PHOTO/The Maroon Loyola's baseball team takes a break to huddle during a game last spring. Currently, they are taking a break from practice to prepare for their upcoming season.">
+									<div ID="DIVL304" TYPE="IMAGE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL305" TYPE="CAPTION">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00018"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL306" TYPE="SECTION" DMDID="MODSMD_SECTION5" LABEL="EDITORIAL">
+							<div ID="DIVL307" TYPE="HEADING">
+								<div ID="DIVL308" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL309" TYPE="ARTICLE" ORDER="1" DMDID="MODSMD_ARTICLE29" LABEL="GOP should not advocate samesex marriages">
+								<div ID="DIVL310" TYPE="HEADING">
+									<div ID="DIVL311" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00002"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL312" TYPE="BODY">
+									<div ID="DIVL313" TYPE="BODY_CONTENT">
+										<div ID="DIVL314" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL315" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00003"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL316" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL317" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00004"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL318" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE30" LABEL="Editorial Cartoon">
+								<div ID="DIVL319" TYPE="HEADING">
+									<div ID="DIVL320" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00005"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL321" TYPE="BODY">
+									<div ID="DIVL322" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT14" LABEL="SARAH AZPEITIA / The Maroon">
+										<div ID="DIVL323" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL324" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL325" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE31" LABEL="SGA leaders have work to do to fulfill campaign promises">
+								<div ID="DIVL326" TYPE="HEADING">
+									<div ID="DIVL327" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00007"/>
+										</fptr>
+									</div>
+									<div ID="DIVL328" TYPE="TEXT">
+										<fptr>
+											<seq>
+												<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00008"/>
+												<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00009"/>
+												<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00010"/>
+											</seq>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL329" TYPE="BODY">
+									<div ID="DIVL330" TYPE="BODY_CONTENT">
+										<div ID="DIVL331" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL332" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00011"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL333" TYPE="SECTION" DMDID="MODSMD_SECTION6" LABEL="OPINION">
+							<div ID="DIVL334" TYPE="HEADING">
+								<div ID="DIVL335" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL336" TYPE="ARTICLE" ORDER="1" DMDID="MODSMD_ARTICLE32" LABEL="Smokers without options">
+								<div ID="DIVL337" TYPE="HEADING">
+									<div ID="DIVL338" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00002"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL339" TYPE="BODY">
+									<div ID="DIVL340" TYPE="BODY_CONTENT">
+										<div ID="DIVL341" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL342" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00003"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL343" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT15" LABEL="Chad Carlile Undisputed Truth">
+										<div ID="DIVL344" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00001"/>
+											</fptr>
+										</div>
+										<div ID="DIVL345" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00004"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL346" TYPE="ARTICLE" ORDER="2" DMDID="MODSMD_ARTICLE33" LABEL="New policy may herald change">
+								<div ID="DIVL347" TYPE="HEADING">
+									<div ID="DIVL348" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00005"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL349" TYPE="BODY">
+									<div ID="DIVL350" TYPE="BODY_CONTENT">
+										<div ID="DIVL351" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL352" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00006"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL353" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL354" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00007"/>
+														<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00008"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL355" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL356" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00009"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL357" TYPE="PARAGRAPH" ORDER="4">
+											<div ID="DIVL358" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00010"/>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL359" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT16" LABEL="Buddy Noel On The Record">
+										<div ID="DIVL360" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00002"/>
+											</fptr>
+										</div>
+										<div ID="DIVL361" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL362" TYPE="ILLUSTRATION" ORDER="2" DMDID="MODSMD_PICT17" LABEL="ASSOCIATED PRESS Pope Benedict XVI greets crowds in the Vatican. The Pope recently eased requirements for Anglican converts.">
+										<div ID="DIVL363" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00003"/>
+											</fptr>
+										</div>
+										<div ID="DIVL364" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00012"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div ID="DIVL365" TYPE="ARTICLE" ORDER="3" DMDID="MODSMD_ARTICLE34" LABEL="Orleans Room overcrowding will continue">
+								<div ID="DIVL366" TYPE="HEADING">
+									<div ID="DIVL367" TYPE="TITLE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00013"/>
+										</fptr>
+									</div>
+								</div>
+								<div ID="DIVL368" TYPE="BODY">
+									<div ID="DIVL369" TYPE="BODY_CONTENT">
+										<div ID="DIVL370" TYPE="PARAGRAPH" ORDER="1">
+											<div ID="DIVL371" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00014"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL372" TYPE="PARAGRAPH" ORDER="2">
+											<div ID="DIVL373" TYPE="TEXT">
+												<fptr>
+													<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00015"/>
+												</fptr>
+											</div>
+										</div>
+										<div ID="DIVL374" TYPE="PARAGRAPH" ORDER="3">
+											<div ID="DIVL375" TYPE="TEXT">
+												<fptr>
+													<seq>
+														<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00016"/>
+														<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00017"/>
+														<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00018"/>
+													</seq>
+												</fptr>
+											</div>
+										</div>
+									</div>
+									<div ID="DIVL376" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT18" LABEL="Chris Backes In My Opinion">
+										<div ID="DIVL377" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00004"/>
+											</fptr>
+										</div>
+										<div ID="DIVL378" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL379" TYPE="ILLUSTRATION" ORDER="2" DMDID="MODSMD_PICT19" LABEL="KEVIN ZANSLER/The Maroon Tulane's Bruff Commons offer a somewhat dubious solution to the problem of overcrowding in the Orleans Room. Students cite worse food as one of its main problems.">
+										<div ID="DIVL380" TYPE="IMAGE">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00005"/>
+											</fptr>
+										</div>
+										<div ID="DIVL381" TYPE="CAPTION">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00020"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL382" TYPE="SECTION" DMDID="MODSMD_SECTION7">
+							<div ID="DIVL383" TYPE="BODY">
+								<div ID="DIVL384" TYPE="BODY_CONTENT">
+									<div ID="DIVL385" TYPE="ADVERTISEMENT" ORDER="1" LABEL="Adv. 1 Page 13">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL386" TYPE="ADVERTISEMENT" ORDER="2" LABEL="Adv. 2 Page 13">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL387" TYPE="ADVERTISEMENT" ORDER="3" LABEL="Adv. 3 Page 14">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL388" TYPE="ADVERTISEMENT" ORDER="4" LABEL="Adv. 4 Page 18">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL389" TYPE="ADVERTISEMENT" ORDER="5" LABEL="Adv. 5 Page 19">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL390" TYPE="ADVERTISEMENT" ORDER="6" LABEL="Adv. 6 Page 21">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL391" TYPE="ADVERTISEMENT" ORDER="7" LABEL="Adv. 7 Page 21">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL392" TYPE="ADVERTISEMENT" ORDER="8" LABEL="Adv. 8 Page 22">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL393" TYPE="ADVERTISEMENT" ORDER="9" LABEL="Adv. 9 Page 22">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL394" TYPE="ADVERTISEMENT" ORDER="10" LABEL="Adv. 10 Page 24">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_CB00002"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</structMap>
+</mets>

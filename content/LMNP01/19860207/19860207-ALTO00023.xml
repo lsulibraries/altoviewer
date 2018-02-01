@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/metae/alto-1-2.xsd" xmlns:xlink="http://www.w3.org/TR/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//docstorage2/impdata3/IN/Loyola_10-018/Maroon_1985_1988/0152.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.5-1.31</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles/>
+	<Layout>
+		<Page ID="P23" PHYSICAL_IMG_NR="23" HEIGHT="3736" WIDTH="2878" QUALITY="Retained">
+			<PrintSpace ID="P23_PS00001" HPOS="0" VPOS="0" WIDTH="2878" HEIGHT="3736"/>
+		</Page>
+	</Layout>
+</alto>
